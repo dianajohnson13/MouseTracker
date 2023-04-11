@@ -4,4 +4,5 @@ A Chrome extension that provides additional visual feedback identifying the user
 
 Next Steps:
  - Provide the user with alternative `marker` style options
+ - Make it work with iframes
  - TBD
