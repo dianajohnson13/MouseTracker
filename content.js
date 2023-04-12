@@ -10,7 +10,7 @@ marker.style.width = size + "px";
 marker.style.borderRadius = "50%";
 marker.style.border = "4px solid red";
 marker.style.position = "fixed";
-marker.style.zIndex = "1000";
+marker.style.zIndex = "99999";
 marker.style.pointerEvents = "none";
 
 document.body.append(marker);
